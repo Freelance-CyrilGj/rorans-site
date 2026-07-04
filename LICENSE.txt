@@ -1,0 +1,132 @@
+LICENCE DE PROPRIÉTÉ EXCLUSIVE — RORAN'S
+==========================================
+
+Propriétaire : Roran's
+Dépôt GitHub : https://github.com/Freelance-CyrilGj/rorans-site
+
+Ce fichier fait partie intégrante du dépôt GitHub susmentionné et décrit les conditions
+d'utilisation du code source, du code binaire, des ressources et de l'ensemble des
+fichiers qui y sont contenus (ci-après désignés collectively le « Logiciel »).
+
+---
+
+1. DROITS EXCLUSIFS
+
+L'ensemble du Logiciel est la propriété exclusive de Roran's. Tous les droits
+d'auteur, droits de reproduction, droits de distribution et droits de création
+d'œuvres dérivées y afférents sont réservés.
+
+Conformément aux dispositions du Code de la propriété intellectuelle français
+(articles L.111-1 et suivants), toute copie, reproduction, redistribution,
+modification, décompilation, reverse engineering ou exploitation du Logiciel,
+sous quelque forme et par quelque moyen que ce soit, est formellement interdite
+sans l'autorisation écrite préalable de Roran's.
+
+---
+
+2. UTILISATIONS INTERDITES
+
+Sont notamment et sans que cette liste soit limitative interdites :
+
+  - La copie ou reproduction totale ou partielle du code source ou du code binaire ;
+  - La redistribution, publication ou mise à disposition de tiers, à titre gratuit
+    ou onéreux, sous quelque forme que ce soit (y compris via des fourchettes
+    forks GitHub, des forks de forks, ou tout autre moyen de diffusion) ;
+  - La modification, la traduction, la transformation ou l'adaptation du Logiciel ;
+  - La décompilation, le reverse engineering ou toute tentative d'extraction du code
+    source à partir du code binaire ;
+  - La création d'œuvres dérivées, d'extensions, de plugins ou de modules utilisant
+    le Logiciel ou une partie de celui-ci ;
+  - L'utilisation commerciale ou non commerciale du Logiciel par des tiers,
+    à quelque fin que ce soit, y compris à des fins personnelles, éducatives,
+    de recherche ou de développement open source ;
+  - L'utilisation dans le cadre de tout projet, dépôt, produit ou service
+    commercial ou non commercial, existant ou à venir.
+
+---
+
+3. CONDITION D'UTILISATION
+
+Toute utilisation du Logiciel, y compris l'accès au dépôt, le téléchargement,
+le clonage ou la consultation du code, est strictement subordonnée à l'obtention
+préalable d'une autorisation écrite et expresse de Roran's.
+
+Pour toute demande d'autorisation, contactez : staff@rorans.fr
+
+Le fait de consulter, cloner ou télécharger le Logiciel sans autorisation expresse
+constitue un manquement aux présentes conditions et peut engager votre responsabilité
+civile et pénale en vertu du droit français.
+
+---
+
+4. ABSENCE DE LICENCE OPEN SOURCE
+
+Ce Logiciel n'est PAS distribué sous licence open source, libre, copyleft,
+ni sous aucune forme de licence de logiciel libre ou à code source ouvert
+(telle que définies par l'Open Source Definition ou la Free Software Definition).
+
+L'absence de mention « MIT », « Apache 2.0 », « GPL », « BSD » ou de toute autre
+licence de logiciel libre dans ce dépôt ne signifie pas que le Logiciel est libre
+ou utilisable. Il est STRICTEMENT réservé.
+
+---
+
+5. ABSENCE DE GARANTIE
+
+Le Logiciel est fourni « en l'état » (as is), sans garantie d'aucune sorte,
+expresse ou implicite, y compris mais sans s'y limiter :
+
+  - Les garanties de qualité marchande, d'adéquation à un usage particulier
+    ou de non-violation des droits de tiers ;
+  - Les garanties implicites liées au comportement, aux performances
+    ou à l'absence de défauts du Logiciel.
+
+Roran's ne garantit pas que le Logiciel répondra à vos besoins spécifiques,
+qu'il sera exempt d'erreurs ou de bugs, ni qu'il fonctionnera de manière
+ininterrompue ou sans défaillance.
+
+L'utilisateur asume l'ensemble des risques liés à la qualité, aux performances
+et à l'utilisation du Logiciel.
+
+---
+
+6. LIMITATION DE RESPONSABILITÉ
+
+Dans la mesure permise par la loi applicable, Roran's ne pourra être tenu
+responsable de tout dommage direct, indirect, accidentel, spécial, exemplaire
+ou consécutif (y compris, sans s'y limiter, la perte de profits, de données,
+d'opportunités commerciales, de clientèle ou d'autres avantages économiques)
+résultant de l'utilisation ou de l'impossibilité d'utiliser le Logiciel,
+même si Roran's a été informé de la possibilité de tels dommages.
+
+---
+
+7. RÉSERVATION DES DROITS
+
+Roran's se réserve expressément tous les droits qui ne sont pas expressément
+accordés aux termes des présentes. Rien dans cette licence ne doit être interprété
+comme une renonciation à l'un quelconque des droits de Roran's en vertu
+du droit français ou de tout autre droit applicable.
+
+Roran's se réserve le droit de modifier, de mettre à jour ou de révoquer
+les présentes conditions à tout moment, sans préavis, pour toute nouvelle version
+du Logiciel.
+
+---
+
+8. DROIT APPLICABLE ET JURIDICTION
+
+Les présentes conditions sont régies par le droit français.
+Tout litige relatif à l'interprétation, à l'exécution ou à la violation des
+présentes conditions sera soumis à la compétence exclusive des tribunaux français
+compétents.
+
+En cas de contradiction entre la version anglaise de ce fichier et la version
+française, la version française prévaudra.
+
+---
+
+© 2026 Roran's — Tous droits réservés.
+
+Cette licence est entrée en vigueur à la date de première publication du Logiciel
+sur le dépôt GitHub susmentionné.
