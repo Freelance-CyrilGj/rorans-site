@@ -5,6 +5,7 @@
     --accent: #EF9F27;
     --text: #F1EFE8;
     --muted: #9E99A5;
+    --grey: #666;
     --radius: 0;
     --shadow: 4px 4px 0 var(--outline);
     --font: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -217,9 +218,10 @@ h1, h2, h3, h4 {
 }
 
 .screenshots-grid {
-    display: grid;
+    display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    justify-content: flex-start;
 }
 
 .screen-placeholder {
@@ -415,4 +417,27 @@ a[target="_blank"]::after {
   color: #6B6470;
   font-size: 0.85rem;
   margin-top: 1rem;
+}
+
+.meta {
+    color: var(--grey);
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
+}
+
+.mentions-legales h4 {
+    color: var(--accent);
+    font-size: 1.25rem;
+}
+
+.mentions-legales h5 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    font-family: var(--font-title);
+    font-weight: bold;
+}
+
+.mentions-legales ul {
+    list-style-type: none;
+    margin-left: 2rem;
 }
