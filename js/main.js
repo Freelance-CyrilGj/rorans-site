@@ -51,3 +51,46 @@ function initMenu() {
         burgerBtn.setAttribute('aria-expanded', mainMenu.classList.contains('open'));
     });
 }
+
+// Ouvrir
+document.addEventListener('DOMContentLoaded', function () {
+    const lightbox    = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const closeBtn    = document.querySelector('.lightbox .close');
+
+    /* ---- Ouvrir ---- */
+    document.querySelectorAll('img.zoomable').forEach(img => {
+        img.addEventListener('click', function (e) {
+            e.stopPropagation();
+            lightboxImg.src = this.src;
+            lightbox.classList.add('active');
+        });
+    });
+
+    /* ---- Croix ---- */
+    if (closeBtn) {
+        closeBtn.addEventListener('click', function (e) {
+            e.stopPropagation();   // empêche le clic de remonter au div
+            closeLightbox();
+        });
+    }
+
+    /* ---- Clic sur le fond noir ---- */
+    lightbox.addEventListener('click', function (e) {
+        if (e.target === lightbox) {  // uniquement si on clique SUR le fond
+            closeLightbox();
+        }
+    });
+
+    /* ---- Échap ---- */
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeLightbox();
+    });
+});
+
+/* ---- Fonction ferme ---- */
+function closeLightbox() {
+    const lb = document.getElementById('lightbox');
+    if (lb) lb.classList.remove('active');
+}
+
