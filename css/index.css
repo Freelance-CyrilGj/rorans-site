@@ -353,6 +353,11 @@ a[target="_blank"]::after {
     font-weight: bold;
 }
 
+.links {
+    display: flex;
+    gap: 1rem;
+}
+
 .feature-grid {
     display: grid;
     gap: 1rem;
